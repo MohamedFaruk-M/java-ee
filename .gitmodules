@@ -1,0 +1,3 @@
+[submodule "hibernate"]
+	path = hibernate
+	url = https://github.com/MohamedFaruk-M/hibernate.git
