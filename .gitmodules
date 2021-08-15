@@ -7,3 +7,6 @@
 [submodule "cdi"]
 	path = cdi
 	url = https://github.com/MohamedFaruk-M/cdi.git
+[submodule "jms"]
+	path = jms
+	url = https://github.com/MohamedFaruk-M/jms.git
