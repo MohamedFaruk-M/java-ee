@@ -2,6 +2,7 @@
 ***Java Enterprise Edition*** which was act as a kick starter course. This course further drives my carrier in very energitic manner in which i can able to explore and clarify myself about some of the keys feature as follows<br>
 1:<br>
   Context and Dependency Injection<br>
+    Externalize the object creation by the help of containers.<br>
 2:<br>
   Hibernate<br> 
     Native hibernate as well as a JPA provider<br>
