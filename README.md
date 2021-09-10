@@ -8,4 +8,10 @@
     Native hibernate as well as a JPA provider<br>
 3:<br>
   Spring<br>
-    Even Spring is a active competitor of jakarta-ee, some of the basics which i learnt from here help me to progress my learning curve in the spring world.
+    Even Spring is a active competitor of jakarta-ee, some of the basics which i learnt from here help me to progress my learning curve in the spring world.<br>
+4:<br>
+  Jms<br>
+    Queuing is a very basic needed framework when there is a rapid communication taken place between the modules in order to avoid loosing the information.<br>
+5:<br>
+  Jaxb<br>
+    Binding is an ever most significant framework where there is an information bundle transferred among two systems but both are run on their independent protocol .<br>
