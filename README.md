@@ -12,3 +12,6 @@
 4:<br>
   Jms<br>
     Queuing is a very basic needed framework when there is a rapid communication taken place between the modules in order to avoid loosing the information.<br>
+5:<br>
+  Jaxb<br>
+    Binding is an ever most significant framework where there is an information bundle transferred among two systems but both are run on their independent protocol .<br>
