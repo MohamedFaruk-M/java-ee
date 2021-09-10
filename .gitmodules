@@ -13,3 +13,6 @@
 [submodule "jax-rs"]
 	path = jax-rs
 	url = https://github.com/MohamedFaruk-M/jaxrs.git
+[submodule "jaxb"]
+	path = jaxb
+	url = https://github.com/MohamedFaruk-M/jaxb.git
